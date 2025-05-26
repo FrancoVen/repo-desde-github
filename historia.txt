@@ -1,2 +1,3 @@
 Este archivo fue creado directamente desde github. 
 Estoy aprendiendo a usar git pull para mantener mi repositorio local siempre actualizado. 
+LINEA AGREGADA DESDE MI PC
